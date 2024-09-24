@@ -1,6 +1,6 @@
 # Project Proposal
 
-### __While We Were Dreaming__
+## __While We Were Dreaming__
 
 ### What and why?
 
